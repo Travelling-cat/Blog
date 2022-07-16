@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 云跑跑
 language: zh-CN
 timezone: ''
 
@@ -44,14 +44,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
